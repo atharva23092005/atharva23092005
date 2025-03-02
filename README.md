@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Shelar</h1>
 <h3 align="center">I'm Frontend & Backend Web Development Enthusiast | Learning and Growing in Tech | CSE'27|</h3>
 
-- 🔭 I’m currently worked on Ecell at IIT Bombay Project [ShikaSetu](https://github.com/atharva23092005/ShikshaSetu-sever.git)
+- 🔭 I’m currently worked on Ecell at IIT Bombay Eureka Project [ShikaSetu](https://github.com/atharva23092005/ShikshaSetu-sever.git)
 
 - 🌱 I’m currently learning **Ai and Ml**
 
