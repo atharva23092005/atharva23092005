@@ -8,7 +8,7 @@
 - 👯 I’m done project for Teachers and Staff members on Schecduling system [EduSync](https://atharva23092005.github.io/EduSync/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharva23092005](https://github.com/atharva23092005?tab=repositories)
-- MY RESUME-(https://drive.google.com/file/d/1xBSSXz-a_wTY5F0jlGQzr7GlnnbaC-hX/view?usp=sharing)
+- MY RESUME-((https://drive.google.com/file/d/1unIhebeO8_BlkvzzdNTHjRUtYZT133XV/view?usp=drive_link))
 
 - 💬 Ask me about **Student at Bharti Vidyapeeth College of engineering| S.E CSE | 2025| "As student with a growing passion for web development, I am actively exploring and enhancing my skills in technologies like  HTML, CSS, and JavaScript .Having learing in Mern Stack ,Tailwind Css and Bootstrap. I enjoy creating user-friendly and responsive designs while deepening my understanding of web frameworks and best practices." Beyond my professional role, I’m highly interested in participating in hackathons and collaborating on exciting projects that solve real-world problems. I love brainstorming innovative ideas, working with developers, and bringing concepts to life through coding and design. Open to connecting with like-minded professionals, developers, and teams working on interesting web projects!**
 
